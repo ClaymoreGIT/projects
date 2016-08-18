@@ -1,2 +1,2 @@
-# projects
-Projects related to everything I code
+# C++ programs
+Self-Explanatory, open source WIPs and final projects in C++
